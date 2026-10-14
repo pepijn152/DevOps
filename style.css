@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(to right, blue, green);
+}
+
+ul {
+    font-weight: bold;
+    font-size: 250%;
+    color: white;
+}
