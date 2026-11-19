@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, blue, green);
+    background-image: linear-gradient(to right, blue, rgb(102, 118, 153));
 }
 
 ul {
